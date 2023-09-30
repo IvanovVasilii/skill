@@ -1,2 +1,2 @@
 #!/bin/bash
-cd ./mod
+cd /home/k3s/skill/skill_mod2
